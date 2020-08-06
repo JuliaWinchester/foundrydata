@@ -1,0 +1,18 @@
+{
+  "id": "dragons-of-phandelver",
+  "name": "dragons-of-phandelver",
+  "title": "Dragons of Phandelver",
+  "description": "Imported from Roll20 using R20Converter",
+  "system": "dnd5e",
+  "coreVersion": "0.4.5",
+  "systemVersion": 0.8,
+  "packs": [],
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "unavailable": 0,
+  "languages": []
+}

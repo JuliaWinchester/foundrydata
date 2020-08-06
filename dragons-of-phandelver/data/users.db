@@ -1,0 +1,5 @@
+{"_id": "NmM2N2UwMzQxZjgx", "name": "GM", "flags": {}, "color": "#2e7388", "scene": "NmE3ZWFkODE3ZTkz", "permission": 0, "permissions": {}, "sort": 0, "hotbar": {}, "role": 4, "password": ""}
+{"_id": "Y2JkZjBkZDdiYmUz", "name": "Viewer", "flags": {}, "color": "#ca7f8d", "scene": "NmE3ZWFkODE3ZTkz", "permission": 0, "permissions": {}, "sort": 10000, "hotbar": {}, "role": 1, "password": ""}
+{"_id": "ZDBjMjUzYzc4MDcz", "name": "Bount", "flags": {}, "color": "#778649", "scene": "NmE3ZWFkODE3ZTkz", "permission": 0, "permissions": {}, "sort": 20000, "hotbar": {}, "role": 1, "password": ""}
+{"_id": "MmJkYWQ3NThjYjIw", "name": "Wayez", "flags": {}, "color": "#ff9900", "scene": "NmE3ZWFkODE3ZTkz", "permission": 0, "permissions": {}, "sort": 30000, "hotbar": {}, "role": 1, "password": ""}
+{"_id": "Y2NmYWU4MGNhNTM3", "name": "Pandjed", "flags": {}, "color": "#af73c2", "scene": "NmE3ZWFkODE3ZTkz", "permission": 0, "permissions": {}, "sort": 40000, "hotbar": {}, "role": 1, "password": ""}

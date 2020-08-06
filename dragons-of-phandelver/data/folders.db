@@ -1,0 +1,3 @@
+{"_id": "ODMyMjRkYmI3NGRj", "name": "Decks", "flags": {}, "type": "RollTable", "color": "", "parent": null, "sort": 100000}
+{"_id": "NjExMjdkMTQwNjVh", "name": "Decks", "flags": {}, "type": "Item", "color": "", "parent": null, "sort": 100000}
+{"_id": "YWFmNWNmZWU2ZTk3", "name": "Playing Cards", "flags": {}, "type": "Item", "color": "", "parent": "NjExMjdkMTQwNjVh", "sort": 200000}
